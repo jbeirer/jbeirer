@@ -1,9 +1,9 @@
 ## Hi there, I am Joshua 👋
 
+**Staff Physicist @ CERN**
+
 <img align="right" src="assets/fcc-dark.png#gh-dark-mode-only" width="300" alt="FCC">
 <img align="right" src="assets/fcc-light.png#gh-light-mode-only" width="300" alt="FCC">
-
-**Staff Physicist @ CERN**
  
 I develop simulation and reconstruction software for the **Future Circular Collider (FCC)** — CERN's proposed 91 km successor to the LHC, designed to probe the Higgs boson and open questions in fundamental physics with unprecedented precision.
 
