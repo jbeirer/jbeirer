@@ -17,7 +17,7 @@ Feel free to reach out if you'd like to discuss physics, software, open-source d
 <p>
   <a href="https://home.cern"><img src="https://img.shields.io/badge/CERN-home.cern-0033A0?style=flat-square&logo=cern&logoColor=white" alt="CERN"></a>
   <a href="https://home.cern/science/accelerators/future-circular-collider/"><img src="https://img.shields.io/badge/FCC-Future_Circular_Collider-1E5BA8?style=flat-square" alt="FCC"></a>
-  <a href="mailto:jbeirer@cern.ch"><img src="https://img.shields.io/badge/Email-jbeirer%40cern.ch-0033A0?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://mattermost.web.cern.ch/cern-general/messages/@jbeirer"><img src="https://img.shields.io/badge/Mattermost-%40jbeirer-0058CC?style=flat-square&logo=mattermost&logoColor=white" alt="Mattermost"></a>
-  <a href="https://inspirehep.net/authors/1845941"><img src="https://img.shields.io/badge/INSPIRE--HEP-J.F._Beirer-002D5B?style=flat-square" alt="INSPIRE-HEP"></a>
+  <a href="https://inspirehep.net/authors/1845941"><img src="https://img.shields.io/badge/INSPIRE--HEP-J.F._Beirer-1E5BA8?style=flat-square" alt="INSPIRE-HEP"></a>
+  <a href="mailto:jbeirer@cern.ch"><img src="https://img.shields.io/badge/Email-jbeirer%40cern.ch-475569?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://mattermost.web.cern.ch/cern-general/messages/@jbeirer"><img src="https://img.shields.io/badge/Mattermost-%40jbeirer-475569?style=flat-square&logo=mattermost&logoColor=white" alt="Mattermost"></a>
 </p>
