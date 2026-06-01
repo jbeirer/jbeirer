@@ -20,5 +20,4 @@ Feel free to reach out if you'd like to discuss physics, software, open-source d
   <a href="mailto:jbeirer@cern.ch"><img src="https://img.shields.io/badge/Email-jbeirer%40cern.ch-0033A0?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://mattermost.web.cern.ch/cern-general/messages/@jbeirer"><img src="https://img.shields.io/badge/Mattermost-%40jbeirer-0058CC?style=flat-square&logo=mattermost&logoColor=white" alt="Mattermost"></a>
   <a href="https://inspirehep.net/authors/1845941"><img src="https://img.shields.io/badge/INSPIRE--HEP-J.F._Beirer-002D5B?style=flat-square" alt="INSPIRE-HEP"></a>
-  <a href="https://orcid.org/0000-0001-9024-4989"><img src="https://img.shields.io/badge/ORCID-0000--0001--9024--4989-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
 </p>
